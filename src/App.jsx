@@ -8,7 +8,7 @@ const App = () => {
       </div>
       <Calculator />
       <div className="footer">
-        <p>Made with ❤️ by Coding4Dev</p>
+        <p>Made with ❤️ by Abhishek Gurjar</p>
       </div>
     </div>
   );

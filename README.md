@@ -50,7 +50,8 @@ The project is structured as follows:
 You can check out the live demo of the calculator [here](https://calculator-react-in.netlify.app/).
 
 ## Screenshots
-![Screenshot 2024-09-03 202414](https://github.com/user-attachments/assets/3e878e09-02b0-49f1-8041-dd1880abf86b)
+
+![Screenshot 2024-09-04 101101](https://github.com/user-attachments/assets/d06b1a02-3e6f-46b2-8818-2d9bd66058b6)
 
 
 ## Conclusion

@@ -44,7 +44,6 @@ The project is structured as follows:
 - **App.css**: Contains the styling for the Calculator component.
 
 
-
 ## Live Demo
 
 You can check out the live demo of the calculator [here](https://calculator-react-in.netlify.app/).

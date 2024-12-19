@@ -62,4 +62,4 @@ This simple calculator project is an excellent way to practice your React skills
 - **Inspiration:** This project was inspired by various Simple calculators available online.
 
 ### Author
-**Abhishek Gurjar** is a passionate web developer with a focus on building intuitive and responsive web applications. Follow his journey and explore more projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a passionate web developer with a focus on building intuitive and responsive web applications. Follow his journey and explore more projects on [GitHub](https://github.com/abhishekboadgurjar).
